@@ -88,6 +88,7 @@ const TableStyled = styled(Table)`
     width: 100%;
     border: 1px solid #000000;
     border-radius: 10px;
+    overflow: hidden;
 `;
 
 const NoPanaramaWrapper = styled(Flex)`
